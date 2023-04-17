@@ -8,6 +8,7 @@ I'm a senior at Case Western Reserve University, majoring in Finance and Data Sc
 
 ## 🔭📄 My work
 I’m currently working on **DayBreak (A smart dashboard) - Public link soon**
+![alt text](https://github.com/blakewaldman/blakewaldman/blob/main/Daybreak_Pictures.png)
 <br>Know about my experiences (Resume) ![alt text](https://github.com/blakewaldman/blakewaldman/blob/main/Blake%20Waldman%20Resume.png)
 
 # 💻 Tech Stack:
