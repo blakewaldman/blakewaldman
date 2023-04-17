@@ -4,7 +4,7 @@ I'm a senior at Case Western Reserve University, majoring in Finance and Data Sc
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blake-waldman) 
-<br>How to reach me **bwaldman01@gmail.com**
+<br>How to reach me: **bwaldman01@gmail.com**
 
 ## 🔭📄 My work
 📌 I'm currently working on **DayBreak (A smart dashboard)** - Public link soon
