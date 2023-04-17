@@ -10,6 +10,9 @@ I'm a senior at Case Western Reserve University, majoring in Finance and Data Sc
 📌 I'm currently working on **DayBreak (A smart dashboard)** - Public link soon
 ![alt text](Daybreak_Pictures.png)
 <br><br>📝 I recently wrote a paper on the potential impacts of **[Bias in Artificial Intelligence](A_Study_on_Bias%20in_Artificial_Intelligence.pdf)** 
+
+Abstract: Bias in artificial intelligence (AI) systems has emerged as a pressing issue in the rapidly evolving landscape of AI research and development. This paper provides a comprehensive analysis of the diverse origins, implications, and mitigation strategies for bias in AI systems, including biased training data, algorithmic bias, and measurement and confirmation biases. The ethical, legal, and social ramifications of biased AI systems are explored, along with popular mitigation strategies such as conscientious data collection, fairness-aware machine learning, and algorithmic transparency. The paper emphasizes the importance of interdisciplinary collaboration, the development of new techniques, and the evaluation of existing approaches in addressing AI bias, ultimately aiming to contribute to the development of more inclusive, equitable, and socially responsible AI systems that cater to the needs of all members of society.
+
 <br><br>📚 Learn about my experiences **(Resume)** ![alt text](Blake%20Waldman%20Resume.png)
 
 # 💻 Tech Stack:
