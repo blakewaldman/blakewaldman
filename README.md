@@ -7,7 +7,7 @@ I'm a senior at Case Western Reserve University, majoring in Finance and Data Sc
 <br>How to reach me **bwaldman01@gmail.com**
 
 ## 🔭📄 My work
-📌 I'm currently working on **DayBreak (A smart dashboard) - Public link soon**
+📌 I'm currently working on **DayBreak (A smart dashboard) ** - Public link soon
 ![alt text](https://github.com/blakewaldman/blakewaldman/blob/main/Daybreak_Pictures.png)
 <br><br>📝 I recently wrote a paper on the potential impacts of [Bias in Artificial Intelligence](https://github.com/blakewaldman/blakewaldman/blob/main/A_Study_on_Bias%20in_Artificial_Intelligence.pdf) 
 <br><br>📚 Learn about my experiences **(Resume)** ![alt text](https://github.com/blakewaldman/blakewaldman/blob/main/Blake%20Waldman%20Resume.png)
