@@ -18,8 +18,7 @@ Looking forward, I am excited about the opportunities to further develop my anal
 
 ## 🔭📄 My work
 📌 I recently made a web application called **DayBreak (A smart dashboard)** - No Longer Publicly Accessible (Pictures Below)
-<p style="margin-left: 10%; margin-right: 10%;">
-***Abstract:*** In the digital era, efficient task management is crucial for productivity and user experience. Daybreak, a smart to-do list web application, enhances productivity by offering a personalized dashboard, weather information, and task management capabilities. Developed using React.js, Django, and SQLite, it provides a user-friendly interface for account creation, login, task management, reminders, and a calendar view. The dashboard displays user tasks, progress reports, and local weather information, with various tabs for specific features. The application aims to offer a seamless task management experience, improving productivity and user experience, while continuously evolving to meet user needs and adapt to the web application landscape.</p>
+<br> > ***Abstract:*** In the digital era, efficient task management is crucial for productivity and user experience. Daybreak, a smart to-do list web application, enhances productivity by offering a personalized dashboard, weather information, and task management capabilities. Developed using React.js, Django, and SQLite, it provides a user-friendly interface for account creation, login, task management, reminders, and a calendar view. The dashboard displays user tasks, progress reports, and local weather information, with various tabs for specific features. The application aims to offer a seamless task management experience, improving productivity and user experience, while continuously evolving to meet user needs and adapt to the web application landscape.</p>
 
 ![DayBreak](https://raw.githubusercontent.com/blakewaldman/blakewaldman.github.io/main/Daybreak%20-%20Presentation.png)
 
