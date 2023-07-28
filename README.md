@@ -15,7 +15,6 @@ Looking forward, I am excited about the opportunities to further develop my anal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blake-waldman) 
 <br>How to reach me: **bwaldman01@gmail.com**
 
-https://github.com/blakewaldman/blakewaldman/blob/7e9c672d64f9bcca30ead865f01929f750f0e37d/Blake%20Waldman%20Resume%20(Ross%20Template).png
 
 ## 🔭📄 My work
 📌 I recently made a web application called **DayBreak (A smart dashboard)** - No Longer Publicly Accessible (Pictures Below)
